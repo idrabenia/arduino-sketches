@@ -8,7 +8,6 @@ extern "C" {
 
 void setup() {
   start();
-  millis();
 }
 
 void loop() {
